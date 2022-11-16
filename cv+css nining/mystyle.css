@@ -1,0 +1,12 @@
+td {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  background-image: url(polygon-triangle.jpg);
+  width: fit-content;
+}
+
+a {
+  text-decoration: none;
+}
